@@ -1,0 +1,9 @@
+City sta cruz:
+Population: 120000
+Surface: 1000.0
+New population: 108000
+New surface: 11000.0City las palmas:
+Population: 110000
+Surface: 100.0
+New population: 99000
+New surface: 10100.0
